@@ -16,5 +16,6 @@ public class App
         System.out.println( "confilct! hot-fix-test" );
         System.out.println( "push test!" );
         System.out.println( "ssh push test!" );
+        System.out.println( "pull test!" );
     }
 }
