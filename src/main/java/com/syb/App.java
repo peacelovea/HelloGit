@@ -13,5 +13,6 @@ public class App
         System.out.println( "Hello World!3" );
         System.out.println( "Hello World! hot-fix-1" );
         System.out.println( "conflict! master-test-" );
+        System.out.println( "confilct! hot-fix-test" );
     }
 }
